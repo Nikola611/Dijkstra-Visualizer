@@ -1,0 +1,19 @@
+# ninja log v5
+9	957	7265438653759568	CMakeFiles/DjikstraVisualizer.dir/DjikstraAlg.cpp.obj	f1f4765b40619480
+21	869	7268801897839779	CMakeFiles/DjikstraVisualizer.dir/node.cpp.obj	b9a31520acb9dc08
+10	885	7276877635447108	CMakeFiles/DjikstraVisualizer.dir/Graph.cpp.obj	11a57015d23ec0af
+5	1691	7276878396123334	CMakeFiles/DjikstraVisualizer.dir/main.cpp.obj	9f87225129e9b001
+9	781	7270001514651349	CMakeFiles/DjikstraVisualizer.dir/dropDownMenu.cpp.obj	b223a569db2c51b
+1692	2900	7276878408093327	DjikstraVisualizer.exe	4f7ffef322df821b
+15	1165	7276877284363306	CMakeFiles/DjikstraVisualizer.dir/Edge.cpp.obj	ac85176a200a90bd
+10	70	7268805537320674	CMakeFiles/DjikstraVisualizer.dir/highlightAnimation.cpp.obj	e96935b9cc30025a
+26	1269	7269985407244277	CMakeFiles/DjikstraVisualizer.dir/animation.cpp.obj	9dae06e90af847b9
+13	734	7271415562412506	CMakeFiles/DjikstraVisualizer.dir/Checkbox.cpp.obj	476c9a32eb800e03
+3	1220	7283402829546366	DjikstraVisualizer.exe	f2957cf1177aca0
+34	925	7283411011427855	CMakeFiles/DjikstraVisualizer.dir/Checkbox.cpp.obj	476c9a32eb800e03
+11	1049	7283411012662106	CMakeFiles/DjikstraVisualizer.dir/dropDownMenu.cpp.obj	b223a569db2c51b
+28	1270	7283411014828420	CMakeFiles/DjikstraVisualizer.dir/node.cpp.obj	b9a31520acb9dc08
+16	1271	7283411014855791	CMakeFiles/DjikstraVisualizer.dir/Edge.cpp.obj	ac85176a200a90bd
+21	1477	7283411016940175	CMakeFiles/DjikstraVisualizer.dir/Graph.cpp.obj	11a57015d23ec0af
+4	2360	7283411025763798	CMakeFiles/DjikstraVisualizer.dir/main.cpp.obj	9f87225129e9b001
+2360	3279	7283411034910979	DjikstraVisualizer.exe	f2957cf1177aca0
