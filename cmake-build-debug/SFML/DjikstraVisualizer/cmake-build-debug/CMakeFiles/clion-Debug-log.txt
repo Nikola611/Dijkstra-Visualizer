@@ -1,5 +1,0 @@
-"C:\Users\nikol\CLion 2022.3.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Users/nikol/CLion 2022.3.1/bin/ninja/win/ninja.exe" -G Ninja -S C:\SFML\DjikstraVisualizer -B C:\SFML\DjikstraVisualizer\cmake-build-debug
--- Found SFML 2.5.1 in C:/SFML/lib/cmake/SFML
--- Configuring done
--- Generating done
--- Build files have been written to: C:/SFML/DjikstraVisualizer/cmake-build-debug

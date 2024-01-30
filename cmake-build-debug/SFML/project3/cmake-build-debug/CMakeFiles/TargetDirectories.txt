@@ -1,3 +1,0 @@
-C:/SFML/project3/cmake-build-debug/CMakeFiles/project3.dir
-C:/SFML/project3/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/SFML/project3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
