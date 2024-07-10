@@ -1,11 +1,13 @@
 # Dijkstra-Visualizer
 Personal Project Description:
-The following personal project was created to practice the skills I learned in my data structures class, while actively learning how to use and integrate visual elements.
+This personal project was created to practice the skills learned in my data structures class while actively learning how to integrate visual elements. The project provides an interactive visualization of Dijkstra's Algorithm, showcasing the shortest path calculations in a graphical format.
 
-Elements of the Project:
--Run the project as DijsktraVisualizer, not main.cpp
--Creates 10 nodes, with 18 edges (Must be hard-coded to change)
--Line weight is based on distance times the average population density between locations
--Hover over locations to obtain information
--Dropdown menu lets you find the shortest path from staring to end location; must click enter to see change
--SPT button toggles on or off to display the Shortest Path Tree for the starting location
+Project Features:
+
+Execution: Run the project as DijkstraVisualizer, not main.cpp.
+Graph Setup: Initializes with 10 nodes and 18 edges (modifiable via hard coding).
+Edge Weights: Line weight is determined by the distance multiplied by the average population density between locations.
+Interactive Nodes: Hover over nodes to display detailed information.
+Pathfinding: Utilize the dropdown menu to find the shortest path from the starting to the end location; click enter to update the visualization.
+Shortest Path Tree (SPT): Toggle the SPT button on or off to display the Shortest Path Tree for the starting location.
+This project exemplifies proficiency in software design, algorithmic problem-solving, and the practical application of data structure principles. It also demonstrates the ability to integrate complex algorithms with user-friendly visual interfaces.
